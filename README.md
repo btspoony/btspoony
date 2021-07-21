@@ -6,7 +6,7 @@
 - 📫 https://mintcraft.org
 - 💬 mailto:tech@btang.cn
 
-![BT.Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&show_icons=true)
+![BT.Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&show_icons=true)
 
 <!--
 **btspoony/btspoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
