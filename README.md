@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey Bro! 👋
+
+> 扑街写手.码农.死宅玩家.想做好游戏的逗比.捣腾区块链.NFT x DAO
+>                                            - I'm bt.wood
+
+- 📫 https://mintcraft.org
+- 💬 mailto:tech@btang.cn
+
+![BT.Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&show_icons=true)
 
 <!--
 **btspoony/btspoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
