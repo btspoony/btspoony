@@ -7,10 +7,10 @@
   - Play, Create, Own, and Govern a virtual world made by players
   - Welcome to Voxel Metaverse!
 - 🌱 https://sandao.cc/ - Founder
-  - A DAO for Creative Community of The Sandbox
+  - A DAO for Creative Community of Multi-Metaverse.
   - We hope to be a link connecting creators, land owners and general players.
   - This is the formal project of FluidDAO which won the third tier award of IOSG Layer2 Hackathon. [Medium](https://medium.com/iosg-ventures/layer2-hackathon-came-to-a-perfect-end-the-star-our-destination-21ff68924a)
-- 📫 http://mintcraft.org - Founder, Promoter
+- 📫 http://mintcraft.org - Founder
   - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
   - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
 - 💬 mailto:tech@btang.cn
