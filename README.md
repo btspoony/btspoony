@@ -1,8 +1,10 @@
 ### Hey Bro! 👋
 
 > 扑街写手.码农.死宅玩家.想做好游戏的逗比.捣腾区块链.NFT x DAO
+> 
 > Writer.Programmer.Otaku Player.A Nerd who wants to build a great game.Hacking with blockchains.NFT x Dao
->                                            - I'm bt.wood
+> 
+>                  - I'm bt.wood
 
 - 👯 https://www.dapperlabs.com/ - China Lead Dev Advocate
   - The NFT company with serious business of fun and games on the blockchain
