@@ -12,7 +12,7 @@
 - 😄 https://sandbox.game/ - Ambassador in China
   - Play, Create, Own, and Govern a virtual world made by players
   - Welcome to Voxel Metaverse!
-- 🌱 https://sandao.cc/ - Founder
+- 🌱 https://sadao.org/ - Founder & Core Contributor
   - A DAO for Creative Community of Multi-Metaverse.
   - We hope to be a bridge connecting creators, land owners and general players.
   - This is the formal project of FluidDAO which won the third tier award of IOSG Layer2 Hackathon. [Medium](https://medium.com/iosg-ventures/layer2-hackathon-came-to-a-perfect-end-the-star-our-destination-21ff68924a)
