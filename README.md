@@ -15,7 +15,6 @@
 - 🌱 https://sadao.org/ - Founder & Core Contributor
   - A DAO for Creative Community of Multi-Metaverse.
   - We hope to be a bridge connecting creators, land owners and general players.
-  - This is the formal project of FluidDAO which won the third tier award of IOSG Layer2 Hackathon. [Medium](https://medium.com/iosg-ventures/layer2-hackathon-came-to-a-perfect-end-the-star-our-destination-21ff68924a)
 - 📫 http://mintcraft.org - Founder
   - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
   - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
