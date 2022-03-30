@@ -12,10 +12,10 @@
 - 😄 https://sandbox.game/ - Ambassador in China
   - Play, Create, Own, and Govern a virtual world made by players
   - Welcome to Voxel Metaverse!
-- 🌱 https://sadao.org/ - Founder & Core Contributor
+- 🌱 https://sandao.cc/ - Founder & Core Contributor
   - A DAO for Creative Community of Multi-Metaverse.
   - We hope to be a bridge connecting creators, land owners and general players.
-- 📫 http://mintcraft.org - Founder
+- 📫 http://mintcraft.org - Developer
   - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
   - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
 - ⚡ https://calendly.com/bt-wood - My scheduling page
