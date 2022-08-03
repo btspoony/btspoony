@@ -12,12 +12,7 @@
 - 😄 https://sandbox.game/ - Ambassador in China
   - Play, Create, Own, and Govern a virtual world made by players
   - Welcome to Voxel Metaverse!
-- 🌱 https://sandao.cc/ - Founder & Core Contributor
-  - A DAO for Creative Community of Multi-Metaverse.
-  - We hope to be a bridge connecting creators, land owners and general players.
-- 📫 http://mintcraft.org - Developer
-  - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
-  - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
+- 📫 https://btang.cn - Personal site
 - ⚡ https://calendly.com/bt-wood - My scheduling page
 - 💬 mailto:tech@btang.cn
 
@@ -36,4 +31,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Archived Projects:
+- 🌱 https://sandao.cc/ - Founder & Core Contributor, A DAO for Creative Community of Multi-Metaverse.
+- ⚡ http://mintcraft.org - Developer
+  - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
+  - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
+
 -->
