@@ -17,7 +17,7 @@
 
 ## Github Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&card_width=480&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btspoony&layout=compact&langs_count=8&hide=php&theme=onedark)
 
 <!--
