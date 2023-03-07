@@ -1,6 +1,6 @@
 ### Hey Bro! 👋
 
-![Cover](https://i.imgur.com/QmSAm6K.png)
+![Cover](https://i.imgur.com/QmSAm6Kh.png)
 
 ## Who am I
 
