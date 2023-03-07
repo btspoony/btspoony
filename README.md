@@ -1,19 +1,20 @@
 ### Hey Bro! 👋
 
+![Cover](https://i.imgur.com/QmSAm6K.png)
+
 ## Who am I
 
-> 扑街写手.码农.死宅玩家.想做好游戏的逗比.捣腾区块链.NFT x DAO
+> 扑街写手.码农.死宅玩家.想做好游戏的逗比.捣腾区块链.NFT.Game.DAO
 > 
-> Writer.Programmer.Otaku Player.A Nerd who wants to build a great game.Hacking with blockchains.NFT x DAO
+> Writer.Programmer.Otaku Player.A Nerd who wants to build a great game.Hacking with blockchains.NFT.Game.DAO
 > 
->                  - I'm bt.wood
 
 - 👯 https://www.dapperlabs.com/ - China Lead Dev Advocate
   - The NFT company with serious business of fun and games on the blockchain
   - Flow, NBA Topshot, Dapper Wallet, etc.
-- 📫 https://btang.cn - Personal site
+- 🌱 https://btang.cn - Personal site 🚧
 - ⚡ https://calendly.com/bt-wood - My scheduling page
-- 💬 mailto:tech@btang.cn
+- 📫 mailto:tech@btang.cn
 
 ## Github Status
 
