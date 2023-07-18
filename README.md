@@ -13,7 +13,7 @@
   - The NFT company with serious business of fun and games on the blockchain
   - Flow, NBA Topshot, Dapper Wallet, etc.
 - 🌱 https://btang.cn - Personal site 🚧
-- ⚡ https://calendly.com/bt-wood - My scheduling page
+- ⚡ https://zcal.co/bt-wood - My scheduling page
 - 📫 mailto:tech@btang.cn
 
 ## Github Status
