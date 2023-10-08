@@ -9,9 +9,7 @@
 > Writer.Programmer.Otaku Player.A Nerd who wants to build a great game.Hacking with blockchains.NFT.Game.DAO
 > 
 
-- 👯 https://www.dapperlabs.com/ - China Lead Dev Advocate
-  - The NFT company with serious business of fun and games on the blockchain
-  - Flow, NBA Topshot, Dapper Wallet, etc.
+- 👯 https://www.flow.com/ - Dev Advocate, APAC
 - 🌱 https://btang.cn - Personal site 🚧
 - ⚡ https://zcal.co/bt-wood - My scheduling page
 - 📫 mailto:tech@btang.cn
