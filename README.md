@@ -10,7 +10,7 @@
 > 
 
 - 👯 <https://www.flow.com/> - Dev Advocate, APAC
-- 𝔉 <https://fixes.world/> - Founder, An executable inscription protocol on Flow Blockchain
+- 𝔉 <https://fixes.world/> - Founder, An Executable Assets Management Protocol on Flow Blockchain
 - 🌱 <https://btang.cn> - Personal site 🚧
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
