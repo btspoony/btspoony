@@ -22,7 +22,7 @@
   <img src="https://stats.quine.sh/btspoony/languages-over-time?theme=dark" width="49%" alt="btspoony\'s GitHub | Languages Over Time" style="float: left;" />
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&card_width=560&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&card_width=500&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btspoony&layout=compact&langs_count=8&hide=php&theme=onedark)
 
 <!--
