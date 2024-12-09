@@ -9,10 +9,10 @@
 > Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.Game.MemeCoin.NFT
 > 
 
-- 👯 <https://www.flow.com/> - Dev Advocate, APAC
+- 👯 <https://www.flow.com/> - Lead Dev Advocate, APAC
 - 𝔉 <https://fixes.world/> - Founder, An Executable Assets Management Protocol on Flow Blockchain
-- 🌱 <https://btang.cn> - Personal site 🚧
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
+- 🌱 <https://btang.cn> - Nothing on that 🚧
 - 📫 mailto:tech@btang.cn
 
 ## Github Status
