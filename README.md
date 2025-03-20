@@ -4,9 +4,9 @@
 
 ## Who am I
 
-> 码农.死宅玩家.扑街写手.想做好游戏的逗比.捣腾区块链.Game.MemeCoin.NFT
+> 码农.死宅玩家.扑街写手.想做好游戏的逗比.捣腾区块链.Game.AI.Agent.Meme
 > 
-> Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.Game.MemeCoin.NFT
+> Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.Game.AI.Agent.Meme
 > 
 
 - 👯 <https://www.flow.com/> - Lead Dev Advocate, APAC
