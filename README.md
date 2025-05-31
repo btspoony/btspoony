@@ -25,6 +25,22 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=btspoony&theme=onedark&card_width=500&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btspoony&layout=compact&langs_count=8&hide=php&theme=onedark)
 
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-31T04:05:37.800Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x00fd4B0a721909c67FCbfbD7Ea063F9693386bBA"
+    },
+    {
+      "chain": "solana",
+      "address": "D2gG71w9rNF2tr5DPPdeExCpHD5RTnGt5CDyNYMy5HSQ"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
 <!--
 
 Archived Titles:
