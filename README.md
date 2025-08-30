@@ -9,11 +9,22 @@
 > Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.Game.AI.Agent.Meme
 > 
 
-- 👯 <https://www.flow.com/> - Lead Dev Advocate, APAC
+### 🚗 Ongoing
+
+- 🔥 <https://xion.burnt.com/> - Lead DevRel APAC @Xion
 - 𝔉 <https://fixes.world/> - Founder, An Executable Assets Management Protocol on Flow Blockchain
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
-- 🌱 <https://btang.cn> - Nothing on that 🚧
+- 🗒️ <https://www.linkedin.com/in/bohaotang/> - My Linkedin page
 - 📫 mailto:tech@btang.cn
+- 🌱 <https://btang.cn> - Nothing on that 🚧
+
+### 👯 Experience
+
+- ex-[Flow](https://www.flow.com/), Lead Dev Advocate, APAC
+- ex-Architect of "Jadepool" System, the licensed crypto assets custodial management system, used by [Hashkey Exchange](https://global.hashkey.com/)
+- ex-Founder of MTreegame Studio, Boisgame Studio
+- ex-Game Producer, Muhe Network
+- ex-Gameplay Enginner, Ubisoft Shanghai
 
 ## Github Status
 
