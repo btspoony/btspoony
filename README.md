@@ -14,7 +14,6 @@
 - 🔥 <https://xion.burnt.com/> - Lead DevRel APAC @Xion
 - 𝔉 <https://fixes.world/> - Founder, An Executable Assets Management Protocol on Flow Blockchain
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
-- 🗒️ <https://www.linkedin.com/in/bohaotang/> - My Linkedin page
 - 📫 mailto:tech@btang.cn
 - 🌱 <https://btang.cn> - Nothing on that 🚧
 
