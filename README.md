@@ -11,8 +11,7 @@
 
 ### 🚗 Ongoing
 
-- 🔥 <https://xion.burnt.com/> - Lead DevRel APAC @Xion
-- 𝔉 <https://fixes.world/> - Founder, An Executable Assets Management Protocol on Flow Blockchain
+- 🔥 <https://verona.dev/> / <https://burnt.com/> - Lead DevRel APAC @Verona / Burnt Labs
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
 - 🌱 <https://btang.cn> - Nothing on that 🚧
@@ -20,6 +19,7 @@
 ### 👯 Experience
 
 - ex-[Flow](https://www.flow.com/), Lead Dev Advocate, APAC
+- ex- <https://fixes.world/> 𝔉 - Builder, An Executable Assets Management Protocol on Flow Blockchain
 - ex-Architect of "Jadepool" System, the licensed crypto assets custodial management system, used by [Hashkey Exchange](https://global.hashkey.com/)
 - ex-Founder of MTreegame Studio, Boisgame Studio
 - ex-Game Producer, Muhe Network
