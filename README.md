@@ -4,7 +4,7 @@
 
 ## Who am I
 
-> 码农.死宅玩家.扑街写手.想做好游戏的逗比.捣腾ZK.AI.Agent.Game
+> 原铁批.赛博祭司.死宅玩家.扑街写手.想做好游戏的逗比.捣腾ZK.AI.Agent.Game
 > 
 > Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.AI.Agent.Game
 > 
