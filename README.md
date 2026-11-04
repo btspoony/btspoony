@@ -2,21 +2,14 @@
 
 ![Cover](https://i.imgur.com/QmSAm6Kh.png)
 
-## Who am I
-
-> 赛博祭司.死宅玩家.原铁批.扑街写手.想做好游戏的逗比.捣腾ZK.AI.Agent.Game
-> 
-> Programmer.Otaku Player.Writer.A Nerd who wants to build a great game.Hacking with blockchains.AI.Agent.Game
-> 
-
 ### 🚗 Ongoing
 
-- 🔥 <https://verona.dev/> / <https://burnt.com/> - Lead DevRel APAC @Verona / Burnt Labs
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
 
 ### 👯 Experience
 
+- ex-[Burnt Lab🔥](https://burnt.com/), Lead DevRel APAC @Verona / Burnt Labs
 - ex-[Flow](https://www.flow.com/), Lead Dev Advocate, APAC
 - ex- <https://fixes.world/> 𝔉 - Builder, An Executable Assets Management Protocol on Flow Blockchain
 - ex-Architect of "Jadepool" System, the licensed crypto assets custodial management system, used by [Hashkey Exchange](https://global.hashkey.com/)
