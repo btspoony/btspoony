@@ -4,6 +4,8 @@
 
 ### 🚗 Ongoing
 
+- [42 Creative Hub](https://github.com/42ch-dev) - AI-Powered Narrative Engine/Products - Founder
+- [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents - Builder/Maintainer
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
 
