@@ -16,7 +16,7 @@
   | Name   | Introduction |
   | ------ | ------------ |
   | [LLM Fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) | An dsh plugin for role-based LLM retry&fallback strategy. |
-  | [Advisor](https://github.com/omdsh-dev/dsh-advisor) | An dsh plugin for pairing a second model that passively reviews each turn with notes and predicts your next prompt. |
+  | [Advisor](https://github.com/omdsh-dev/dsh-advisor) | Pairing a second model that passively reviews each turn with notes and predicts your next prompt. |
   | [Keys Manager](https://github.com/btspoony/dsh-keys-manager) | A DSH plugin that turns one provider API key into a managed pool + more built-in LLM Providers. |
   | [Supervision](https://github.com/btspoony/dsh-supervision) | Bridges a running DSH session into any terminal supervisor — it sees the state, and it can steer. |
   | [Rust SDK](https://github.com/42ch-dev/dsh-rust-sdk) | Rust SDK for DSH(Deepseek Harness) |
