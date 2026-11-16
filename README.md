@@ -5,7 +5,15 @@
 ### 🚗 Ongoing
 
 - 💡 [42 Creative Hub](https://github.com/42ch-dev) - Building AI-Powered Narrative Engine/Products - Founder
-- 🌟 [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents - Builder / Maintainer
+- 🌟 [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents & Devs - Builder / Maintainer
+  - [mstar-harness](https://github.com/btspoony/mstar-harness) - An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
+  - [mstar-inspector](https://github.com/btspoony/mstar-inspector) - A self-hosted Github Bot for automated PR reviews and bug detection
+- 🫍 Maintaining a list of [DSH](https://github.com/deepseek-ai/deepseek-harness) (Deepseek Harness) plugins/tools
+  - [DSH LLM Fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) - An dsh plugin for role-based LLM retry&fallback strategy.
+  - [DSH Advisor](https://github.com/omdsh-dev/dsh-advisor) - An dsh plugin for pairing a second model that passively reviews each turn with notes and predicts your next prompt.
+  - [DSH Keys Manager](https://github.com/btspoony/dsh-keys-manager) - A DSH plugin that turns one provider API key into a managed pool + more built-in LLM Providers
+  - [DSH Supervision](https://github.com/btspoony/dsh-supervision) - A DSH plugin that bridges a running DSH session into any terminal supervisor — it sees the state, and it can steer.
+  - [DSH Rust SDK](https://github.com/42ch-dev/dsh-rust-sdk) - Rust SDK for DSH(Deepseek Harness)
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
 
@@ -52,5 +60,4 @@ Archived Projects:
 - ⚡ http://mintcraft.org - Developer
   - A uniform multi-platform NFT gateway with runtime plugins of main stream game engines(Unreal and Unity).
   - Win the 'Most popular with Developers' Award of Polkadot 2021 Summber Hackathon.[Chainnews](https://www.chainnews.com/articles/735669402216.htm)
-
 -->
