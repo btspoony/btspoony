@@ -5,12 +5,19 @@
 ### 🚗 Ongoing
 
 - 💡 [42 Creative Hub](https://github.com/42ch-dev) - Building AI-Powered Narrative Engine/Products - Founder
+  
+  | Product| Introduction |
+  | ------ | ------------ |
+  | [Nexus](https://github.com/42ch-dev/nexus) | An AI-driven narrative orchestration toolset. |
+  | [SPOKE](https://github.com/42ch-dev/spoke) | Standardized Programmable Ontology Knowledge Engine - Protocol for narrative products. |
+
 - 🌟 [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents & Devs - Builder / Maintainer
   
   | Product| Introduction |
   | ------ | ------------ |
   | [mstar-harness](https://github.com/btspoony/mstar-harness) | An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills. |
   | [mstar-inspector](https://github.com/btspoony/mstar-inspector) | A self-hosted Github Bot for automated PR reviews and bug detection. |
+
 - 🫍 Maintaining a list of [DSH](https://github.com/deepseek-ai/deepseek-harness) (Deepseek Harness) plugins/tools
   
   | Name   | Introduction |
@@ -20,6 +27,7 @@
   | [Keys Manager](https://github.com/btspoony/dsh-keys-manager) | A DSH plugin that turns one provider API key into a managed pool + more built-in LLM Providers. |
   | [Supervision](https://github.com/btspoony/dsh-supervision) | Bridges a running DSH session into any terminal supervisor — it sees the state, and it can steer. |
   | [Rust SDK](https://github.com/42ch-dev/dsh-rust-sdk) | Rust SDK for DSH(Deepseek Harness) |
+
 - ⚡ <https://zcal.co/bt-wood> - My scheduling page
 - 📫 mailto:tech@btang.cn
 
