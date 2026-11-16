@@ -6,9 +6,13 @@
 
 - 💡 [42 Creative Hub](https://github.com/42ch-dev) - Building AI-Powered Narrative Engine/Products - Founder
 - 🌟 [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents & Devs - Builder / Maintainer
-  - [mstar-harness](https://github.com/btspoony/mstar-harness) - An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
-  - [mstar-inspector](https://github.com/btspoony/mstar-inspector) - A self-hosted Github Bot for automated PR reviews and bug detection
+  
+  | Product| Introduction |
+  | ------ | ------------ |
+  | [mstar-harness](https://github.com/btspoony/mstar-harness) | An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills. |
+  | [mstar-inspector](https://github.com/btspoony/mstar-inspector) | A self-hosted Github Bot for automated PR reviews and bug detection. |
 - 🫍 Maintaining a list of [DSH](https://github.com/deepseek-ai/deepseek-harness) (Deepseek Harness) plugins/tools
+  
   | Name   | Introduction |
   | ------ | ------------ |
   | [LLM Fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) | An dsh plugin for role-based LLM retry&fallback strategy. |
