@@ -39,7 +39,7 @@
 - ex-Architect of "Jadepool" System, the licensed crypto assets custodial management system, used by [Hashkey Exchange](https://global.hashkey.com/)
 - ex-Founder of MTreegame Studio, Boisgame Studio
 - ex-Game Producer, Muhe Network
-- ex-Gameplay Enginner, Ubisoft Shanghai
+- ex-Gameplay Engineer, Ubisoft Shanghai
 
 ## Github Status
 
