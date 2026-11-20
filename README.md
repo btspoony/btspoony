@@ -8,8 +8,9 @@
   
   | Product| Introduction |
   | ------ | ------------ |
-  | [Nexus](https://github.com/42ch-dev/nexus) | An AI-driven narrative orchestration toolset. |
   | [SPOKE](https://github.com/42ch-dev/spoke) | Standardized Programmable Ontology Knowledge Engine - Protocol for narrative products. |
+  | [Mindcore](https://github.com/42ch-dev/mindcore) | A Rust core and runtime for transactional agent memory, provenance-backed knowledge, and auditable cognition. |
+  | [Nexus](https://github.com/42ch-dev/nexus) | An AI-driven narrative orchestration toolset. |
 
 - 🌟 [Morning Star](https://mstar.page/) - Opensource toolkits for AI Agents & Devs - Builder / Maintainer
   
