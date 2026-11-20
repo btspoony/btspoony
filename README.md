@@ -18,6 +18,7 @@
   | ------ | ------------ |
   | [mstar-harness](https://github.com/btspoony/mstar-harness) | An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills. |
   | [mstar-inspector](https://github.com/btspoony/mstar-inspector) | A self-hosted Github Bot for automated PR reviews and bug detection. |
+  | mstar-orchestrator | Coming Soon |
 
 - 🫍 Maintaining a list of [DSH](https://github.com/deepseek-ai/deepseek-harness) (Deepseek Harness) plugins/tools
   
